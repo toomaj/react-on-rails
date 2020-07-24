@@ -12,4 +12,5 @@ bundle exec rails s
 [localhost:3000]()
 
 #### Compile
-`bundle exec warble`
+`bundle exec warble executable war`
+
