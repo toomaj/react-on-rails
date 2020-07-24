@@ -9,7 +9,7 @@ bundle install
 bundle exec rails db:create db:migrate
 bundle exec rails s
 ```
+[localhost:3000]()
+
 #### Compile
 `bundle exec warble`
-
-[localhost:3000]()
