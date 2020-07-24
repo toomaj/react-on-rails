@@ -1,4 +1,4 @@
-### React + Rails & jRuby
+### React + Rails, Devise on jRuby
 
 ```
 rvm install 2.5.7
