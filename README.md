@@ -12,5 +12,10 @@ bundle exec rails s
 [localhost:3000]()
 
 #### Compile
-`bundle exec warble executable war`
+`
+bundle
+bundle update
+yarn install
+bundle exec rails assets:precompile
+bundle exec warble executable war`
 
