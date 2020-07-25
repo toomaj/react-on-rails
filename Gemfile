@@ -64,6 +64,6 @@ platform :jruby do
 
   group :development do
     gem 'jruby-jars'
-    gem 'warbler'
+    gem 'warbler', require: false
   end
 end
