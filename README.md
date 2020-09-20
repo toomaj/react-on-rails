@@ -1,3 +1,4 @@
+### This project is incomplete 
 ### React + Rails + Devise on jRuby
 
 ```
