@@ -125,17 +125,17 @@ GEM
     mini_mime (1.0.2)
     mini_portile2 (2.4.0)
     minitest (5.14.1)
-    nio4r (2.5.2)
-    nio4r (2.5.2-java)
+    nio4r (2.5.8)
+    nio4r (2.5.8-java)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     nokogiri (1.10.10-java)
     orm_adapter (0.5.0)
     pg (1.2.3)
     public_suffix (4.0.5)
-    puma (4.3.5)
+    puma (4.3.12)
       nio4r (~> 2.0)
-    puma (4.3.5-java)
+    puma (4.3.12-java)
       nio4r (~> 2.0)
     rack (2.2.3)
     rack-proxy (0.6.5)
@@ -272,7 +272,7 @@ DEPENDENCIES
   jruby-openssl
   listen (~> 3.2)
   pg
-  puma (~> 4.1)
+  puma (~> 4.3)
   rails (~> 6.0.3, >= 6.0.3.2)
   rails-pry
   react-rails
